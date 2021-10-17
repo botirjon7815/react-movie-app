@@ -15,4 +15,5 @@ function App() {
 
 export default App;
 
-// react fragment <> </> (har hil elementlarni ketma ketlikda qo'yishimiz mumkin degani)
+ // react fragment <> </> (har hil elementlarni ketma ketlikda qo'yishimiz mumkin degani)
+
